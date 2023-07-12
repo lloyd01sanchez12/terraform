@@ -1,0 +1,10 @@
+rg_name = "my-resource-group"
+vnet_name = "my-virtual-network"
+add_space = ["10.0.0.0/16"]
+snet_prefix = ["10.0.1.0/24"]
+pub_ip_name = "my-public-ip"
+act_group_name = "my-action-group"
+email_receivers = ["admin@example.com"]
+sms_receivers = ["+1234567890"]
+location = "East US"
+net_interface = "my-network-interface"

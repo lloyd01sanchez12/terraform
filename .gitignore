@@ -1,0 +1,5 @@
+*/*/.terraform/*
+*/*/.terraform.locl.hcl
+src/virtual_machine/.terraform/*
+src/virtual_machine/.terraform
+src/virtual_machine/.terraform.lock.hcl
